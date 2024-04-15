@@ -1,3 +1,5 @@
+This is a test of a Forked dataset
+
 Multi-subject, multi-modal (sMRI+EEG) neuroimaging dataset
 on face processing. Original data described at https://www.nature.com/articles/sdata20151
 This is repackaged version of the EEG data in EEGLAB format. The data has gone through
